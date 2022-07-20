@@ -1,2 +1,2 @@
-# app
-this repo is for practicing ReactJS
+### clock
+this repo is for clock project in ReactJS.
