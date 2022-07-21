@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  background-color: #071E22;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 650;
+  font-size: 8rem;
+}
+
+.timezone{
+  justify-self: right;
+  color: #F4C095;
+}
