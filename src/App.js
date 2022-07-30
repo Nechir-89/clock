@@ -2,7 +2,7 @@ import './App.css'
 import React from "react";
 import findTimezone from './helpers/functions';
 class App extends React.Component {
-  // this.props and this.state are added by react to the class component
+  // this.props and this.state are added by default by react to the class component
   // this.varname like this.timeId (apparently this is the way of adding class scope variables)
   constructor(props) {
     super(props);
